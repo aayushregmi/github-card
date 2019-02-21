@@ -1,0 +1,21 @@
+#mountNode {
+  color: #333;
+}
+
+.card-container {
+	margin: 1em;
+}
+
+.info {
+	display: inline-block;
+  margin-left: 10;
+}
+
+.name {
+	font-size:1.25em;
+  font-weight: bold;
+}
+
+.user-image {
+	width: 75px;
+}
